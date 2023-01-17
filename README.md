@@ -1,6 +1,6 @@
 ICE HOCKEY project
 
-The code is organized it 2 different folders: $\n$
+The code is organized it 2 different folders:  
 SinglePlayer code => project_ar_move\Assets\OurStuff\Scripts_Ind 
 Mutiplayer code => project_ar_move\Assets\OurStuff\Scripts_Mul
 
