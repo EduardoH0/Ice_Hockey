@@ -1,8 +1,8 @@
 # ICE HOCKEY project
 
 The code is organized in 2 different folders:  
-  SinglePlayer code => "project_ar_move\Assets\OurStuff\Scripts_Ind"  
-  Mutiplayer code => "project_ar_move\Assets\OurStuff\Scripts_Mul"  
+    SinglePlayer code => "project_ar_move\Assets\OurStuff\Scripts_Ind"  
+    Mutiplayer code => "project_ar_move\Assets\OurStuff\Scripts_Mul"  
 
 The code that is general to the game (change scenes, textures..)  
   "project_ar_move\Assets\OurStuff"  
