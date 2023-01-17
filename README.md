@@ -1,6 +1,6 @@
-ICE HOCKEY project
+# ICE HOCKEY project
 
-The code is organized it 2 different folders:  
+The code is organized in 2 different folders:  
 SinglePlayer code => "project_ar_move\Assets\OurStuff\Scripts_Ind"  
 Mutiplayer code => "project_ar_move\Assets\OurStuff\Scripts_Mul"  
 
@@ -15,3 +15,6 @@ The different scenes in:
 
 Images, audio and materials created for the game:  
 "project_ar_move\Assets\OurStuff"  
+
+## Installation
+Download and unzip ARHockey file. Install apk on android. 
